@@ -1,0 +1,5 @@
+{
+  "wifi_ssid": "MQTT3IT",
+  "wifi_password": "vyuka3ITmqtt",
+  "openweather_api_key": "28df0c7072d5262a17a2c651ed2e4cb6C"
+}
